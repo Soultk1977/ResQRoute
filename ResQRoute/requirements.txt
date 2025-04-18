@@ -6,3 +6,4 @@ geopy
 plotly
 numpy
 requests
+streamlit-folium
