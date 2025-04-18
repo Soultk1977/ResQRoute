@@ -130,19 +130,24 @@ Machine learning-based response prediction
 ResQRoute
 
 Member 1: Tanmay Kumar Singh
+
 GitHub: https://github.com/Soultk1977
+
 Email: soultk1977@gmail.com
+
 Class: 12
+
 School: Rajkiya Pratibha Vikas Vidyalaya, Karol Bagh, New Delhi
 
+
+
 Member 2: Saubhagya Kumar Singh
+
 GitHub: https://github.com/SirSaubhagya
+
 Email: soulck1977@gmail.com
+
 Class: 9
+
 School: Rana Pratap (Sindhi) Sarvodaya Vidyalaya, R-Block, New Rajendra Nagar, New Delhi
-
-
-
-
-
 
