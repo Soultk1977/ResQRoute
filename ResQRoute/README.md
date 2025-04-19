@@ -87,7 +87,7 @@ Tables in Database:
 
 5. G Drive Link for Smart Signal DEMO and PPT
 
-https://resqroute-controlroom.onrender.com/](https://drive.google.com/drive/folders/1jOpFL5HbiDZ0atpxDOxtQpu3maGTZA3H?usp=drive_link
+(https://drive.google.com/drive/folders/1jOpFL5HbiDZ0atpxDOxtQpu3maGTZA3H?usp=drive_link)
 
 
 📊 Admin Dashboard Analytics:
